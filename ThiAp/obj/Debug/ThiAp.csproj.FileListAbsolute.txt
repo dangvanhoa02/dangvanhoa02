@@ -1,0 +1,6 @@
+C:\Users\ADMIN\RiderProjects\ThiAp\ThiAp\bin\Debug\ThiAp.exe
+C:\Users\ADMIN\RiderProjects\ThiAp\ThiAp\bin\Debug\ThiAp.pdb
+C:\Users\ADMIN\RiderProjects\ThiAp\ThiAp\obj\Debug\ThiAp.csprojAssemblyReference.cache
+C:\Users\ADMIN\RiderProjects\ThiAp\ThiAp\obj\Debug\ThiAp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\RiderProjects\ThiAp\ThiAp\obj\Debug\ThiAp.exe
+C:\Users\ADMIN\RiderProjects\ThiAp\ThiAp\obj\Debug\ThiAp.pdb

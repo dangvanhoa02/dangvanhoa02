@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThiAp", "ThiAp\ThiAp.csproj", "{613E6A43-958D-4A8A-A034-4ED850AA32DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thi-Ex2", "Thi-Ex2\Thi-Ex2.csproj", "{04F797A9-C20B-4DFE-BC7E-46ACA9516B2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{613E6A43-958D-4A8A-A034-4ED850AA32DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{613E6A43-958D-4A8A-A034-4ED850AA32DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{613E6A43-958D-4A8A-A034-4ED850AA32DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{613E6A43-958D-4A8A-A034-4ED850AA32DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04F797A9-C20B-4DFE-BC7E-46ACA9516B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F797A9-C20B-4DFE-BC7E-46ACA9516B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F797A9-C20B-4DFE-BC7E-46ACA9516B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F797A9-C20B-4DFE-BC7E-46ACA9516B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
